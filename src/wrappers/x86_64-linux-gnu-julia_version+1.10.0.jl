@@ -21,13 +21,4 @@ function __init__()
     )
 
     JLLWrappers.@generate_init_footer()
-    
-    try
-        cglobal(:jl_reinit_foreign_type)
-    catch
-        # no jl_reinit_foreign_type -> fall back to old behavior
-        sym = dlsym(libgap_handle, :GAP_InitJuliaMemoryInterface)
-        ccall(sym, Nothing, (Any, Ptr{Nothing}), @__MODULE__, C_NULL)
-    end
-
 end  # __init__()
