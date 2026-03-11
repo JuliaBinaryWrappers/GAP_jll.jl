@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("GAP")
-JLLWrappers.@generate_main_file("GAP", UUID("5cd7a574-2c56-5be2-91dc-c8bc375b9ddf"))
+JLLWrappers.@generate_main_file("GAP", Base.UUID("5cd7a574-2c56-5be2-91dc-c8bc375b9ddf"))
 end  # module GAP_jll
