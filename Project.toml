@@ -1,4 +1,4 @@
-version = "400.1600.104+0"
+version = "400.1600.105+0"
 name = "GAP_jll"
 uuid = "5cd7a574-2c56-5be2-91dc-c8bc375b9ddf"
 
@@ -12,7 +12,7 @@ GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
 
 [compat]
 Libdl = "< 0.0.1, 1"
-julia = "~1.10, ~1.11, ~1.12, ~1.13, ~1.14"
+julia = "~1.10, ~1.11, ~1.12, ~1.13, ~1.14, ~1.15"
 JLLWrappers = "1.7.0"
 Readline_jll = "8.2.13"
 Artifacts = "< 0.0.1, 1"
