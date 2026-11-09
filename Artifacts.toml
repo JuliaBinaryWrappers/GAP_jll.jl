@@ -6,7 +6,7 @@ os = "macos"
 
     [[GAP.download]]
     sha256 = "6ed3a6daf6273b1169fa22f14410428e8f4e39dda92d8d127e1919c312911982"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
 git-tree-sha1 = "d2bbb0ae5fd3506b6987e95bc4c1e2377bf320ad"
@@ -15,7 +15,7 @@ os = "macos"
 
     [[GAP.download]]
     sha256 = "b3dc3cb7dbc9c07bd6d2fd195f3bd926a05f85456278f890d66c0a3c5716ceec"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[GAP]]
 arch = "aarch64"
 git-tree-sha1 = "47a87a3917b2d007ef77be5f043efc11514bdc4c"
@@ -24,7 +24,7 @@ os = "macos"
 
     [[GAP.download]]
     sha256 = "593ce0f910eccda633b7f8edafd3ef15815add85927373f5eea47db177525a1e"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
 git-tree-sha1 = "5e19274c18fdcdc47158e4bcc625b0eae28c699f"
@@ -33,7 +33,7 @@ os = "macos"
 
     [[GAP.download]]
     sha256 = "f7cbabc788ee5f7c5933b54b8cb72ef4d30cec9b0c61d3e53b2fe57e0af5b4c1"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
 git-tree-sha1 = "bd0ff76d3b3d9fa736be8d5b4902e7bed02302d1"
@@ -42,7 +42,7 @@ os = "macos"
 
     [[GAP.download]]
     sha256 = "69e2957bba4dbf8384a3f52250556a428619828b3f1ef23c237941f26c57c7b4"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
 git-tree-sha1 = "e370a9f85b211fe4da06c44f4579da195e6818d8"
@@ -51,7 +51,7 @@ os = "macos"
 
     [[GAP.download]]
     sha256 = "e0c889ff5e1e2c4e6905e84262d96a463fd891a9786319d8dc5668e264a845ce"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-apple-darwin-julia_version+1.15.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-apple-darwin-julia_version+1.15.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
 git-tree-sha1 = "e0e40a84899ba8f5f3055d70350dcc9d254fde25"
@@ -61,7 +61,7 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "2997d58d69d32d06c3e00ec0fcf2e597af079f35f8d2fb6bf9f8641b8d0d471d"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-linux-gnu-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-linux-gnu-julia_version+1.10.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
 git-tree-sha1 = "750afe3f82d7b0ce586a2fb013f2b70a3a547ef4"
@@ -71,7 +71,7 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "460a69a652c03f3822fe9b938ce0d01b7ba8d569fcd94feee8a4d74d5d0666aa"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-linux-gnu-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-linux-gnu-julia_version+1.11.1.tar.gz"
 [[GAP]]
 arch = "aarch64"
 git-tree-sha1 = "abd9292d2020af472f81b8f6328fae1afd7bb47c"
@@ -81,7 +81,7 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "2055892315cc6f4ad8f49d9bbd56f44209a8053126a962870feff61d63ef6743"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-linux-gnu-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-linux-gnu-julia_version+1.12.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
 git-tree-sha1 = "0add712b8bca49e5143725bb525820b9b48cb4f3"
@@ -91,27 +91,27 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "4ca2449542deb005109e0b83fe01feeea00ecc2bd98bd24f0435f08740577e08"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-linux-gnu-julia_version+1.13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-linux-gnu-julia_version+1.13.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
-git-tree-sha1 = "1b1f40d1c80f82999a43da556b4edf39dc8dc06f"
+git-tree-sha1 = "f24f24e668fc050d63530d92c426196d85eca04e"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[GAP.download]]
-    sha256 = "dfa99bd24df80fff6175ba00a5a3025499026fd873907ccaba43b34a1dd220f7"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-linux-gnu-julia_version+1.14.0.tar.gz"
+    sha256 = "df4d2d9cb78eaa73556d32f68db5e862247a3585fed50eb14fc42a3e803522eb"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-linux-gnu-julia_version+1.14.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
-git-tree-sha1 = "8207a815d48d4b1089b9595963666e55daf43507"
+git-tree-sha1 = "165753062a84f24883042d6f77145997e5df81a4"
 julia_version = "1.15.0"
 libc = "glibc"
 os = "linux"
 
     [[GAP.download]]
-    sha256 = "091defe2b780cf2a7768c0204c12bb7feaf3736d6d2d851f259357f0416111ff"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-linux-gnu-julia_version+1.15.0.tar.gz"
+    sha256 = "63c9ffdfe4bd368611bf897e7ba1a456600be2e44d622564e2786ed436b01320"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-linux-gnu-julia_version+1.15.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
 git-tree-sha1 = "1bbec3503f95245bd4397c871547a58494c0e226"
@@ -121,7 +121,7 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "1a12c05d7eb3dee601a0006ad6d95d373fc06dfed4ef7c7e31f0c563119fdd9f"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-linux-musl-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-linux-musl-julia_version+1.10.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
 git-tree-sha1 = "f8b0c301c08b54ed4ddfd20dfa4d799da5450854"
@@ -131,7 +131,7 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "ec5fd211293ebc16b862a54a77cbb50d05d6a59fcc462c94653a1f82ace3fea8"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-linux-musl-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-linux-musl-julia_version+1.11.1.tar.gz"
 [[GAP]]
 arch = "aarch64"
 git-tree-sha1 = "c385f36e8fd8c9c695367e13333fa351ac5ae37a"
@@ -141,7 +141,7 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "c31bd0dde3aebf1366051380c130c31a5870bd4408daa0284a175c47f999aa0c"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-linux-musl-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-linux-musl-julia_version+1.12.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
 git-tree-sha1 = "c1baf839cc6930d9acc449ec9e345140d32a40b0"
@@ -151,27 +151,27 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "66d8180393cc3cd9ede437f4d380b2514eb4e07c605d6580d0e979c7c36c5d0a"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-linux-musl-julia_version+1.13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-linux-musl-julia_version+1.13.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
-git-tree-sha1 = "0af99b8f41772cf7ce135ef2f2afb4ab06dd3462"
+git-tree-sha1 = "8b5715cc3fdd76a856a481604a27d9c1926e2fe0"
 julia_version = "1.14.0"
 libc = "musl"
 os = "linux"
 
     [[GAP.download]]
-    sha256 = "58e77f550bfcd5ce481257baef882898cca495427ab67ba208e2683b43f9bf11"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-linux-musl-julia_version+1.14.0.tar.gz"
+    sha256 = "5602312738d9f9327958887bd3f7e5e1188e4c4ec684e90011cb5b49310a72f1"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-linux-musl-julia_version+1.14.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
-git-tree-sha1 = "09926faf4eb6feed7fa19f3c53cfc1b41d9db101"
+git-tree-sha1 = "f22a731c084fd71f44a542a4cd92506fa463565c"
 julia_version = "1.15.0"
 libc = "musl"
 os = "linux"
 
     [[GAP.download]]
-    sha256 = "c22959754142ea8c690562028891915263c0a6d04e8503124b123092083c0dab"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-linux-musl-julia_version+1.15.0.tar.gz"
+    sha256 = "2f69f92c05e3b6dcf76d3847438542b9a6c8deffda3d0bb8605037a0b269a391"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-linux-musl-julia_version+1.15.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
 git-tree-sha1 = "f1b467198519e1c7f7b3d157fcf38e7ad51d043b"
@@ -180,7 +180,7 @@ os = "freebsd"
 
     [[GAP.download]]
     sha256 = "bb5a16f8f7ffd3d76effb197fd8e477f731d578070e6b854c0602281dba16a19"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
 git-tree-sha1 = "4860187e8ea4fd05b9513f44930b078296500509"
@@ -189,25 +189,25 @@ os = "freebsd"
 
     [[GAP.download]]
     sha256 = "f82858ce1325afe2e189ea899799fab22ae5d50761327b895647ac8dcfa16517"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-unknown-freebsd-julia_version+1.13.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
-git-tree-sha1 = "8facdc686bb772142de504f453f589065b3fe376"
+git-tree-sha1 = "e3ce29eb227a4573411164fb763562963cb490ee"
 julia_version = "1.14.0"
 os = "freebsd"
 
     [[GAP.download]]
-    sha256 = "f48f42391111fee482567f945d434b41c788b6df384f89ac8764d50478a6ee75"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-unknown-freebsd-julia_version+1.14.0.tar.gz"
+    sha256 = "d5eccd3e6950d4770aebd49eff5e55ebc96cc1bb37d3a751a5c46e3aeb81bdd7"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-unknown-freebsd-julia_version+1.14.0.tar.gz"
 [[GAP]]
 arch = "aarch64"
-git-tree-sha1 = "c9efb6cb8efb20ebb9326f53676d57810e71e899"
+git-tree-sha1 = "ba0f6f5421caefb909cddd04f45d73ae96c81e29"
 julia_version = "1.15.0"
 os = "freebsd"
 
     [[GAP.download]]
-    sha256 = "e3f54ec97278f1653ea2ea7d76bae5753554054d9a29d0c428e485beade93c70"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.aarch64-unknown-freebsd-julia_version+1.15.0.tar.gz"
+    sha256 = "07c04427b29dfe28c1f74157ac740e0d496cfc4ddc30f749ddabce3f67e647cb"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.aarch64-unknown-freebsd-julia_version+1.15.0.tar.gz"
 [[GAP]]
 arch = "powerpc64le"
 git-tree-sha1 = "9a2e51e5e44e83c87f9a6d3ed77f1635f75cddb1"
@@ -217,7 +217,7 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "3af4bbee47255d4ae9d92dd03375d078fcf7c6e45b462522a8299b71fdf2241d"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.powerpc64le-linux-gnu-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.powerpc64le-linux-gnu-julia_version+1.10.0.tar.gz"
 [[GAP]]
 arch = "powerpc64le"
 git-tree-sha1 = "795b7c2617fd4e32fa5f2006cc1432296b0372c5"
@@ -227,7 +227,7 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "c05cca7492f893ecc729cdc10ceae532b7b7c40b71c0258aac336471304c3fdc"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.powerpc64le-linux-gnu-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.powerpc64le-linux-gnu-julia_version+1.11.1.tar.gz"
 [[GAP]]
 arch = "powerpc64le"
 git-tree-sha1 = "7b9f519f354c57a4b1d8cdaf44f1ef65d666cdb6"
@@ -237,7 +237,7 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "eb78390d16f0a0649fed6e568a6be6cd84adad2d1e94eda5bf68322881137d45"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.powerpc64le-linux-gnu-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.powerpc64le-linux-gnu-julia_version+1.12.0.tar.gz"
 [[GAP]]
 arch = "powerpc64le"
 git-tree-sha1 = "44138b8e6635c36a1dd9280648f692c9070b3b30"
@@ -247,27 +247,27 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "b0fd36229c7df0a4714a4d04e518616f186abfa3a09cd58856bfcb9335c986ef"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.powerpc64le-linux-gnu-julia_version+1.13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.powerpc64le-linux-gnu-julia_version+1.13.0.tar.gz"
 [[GAP]]
 arch = "powerpc64le"
-git-tree-sha1 = "b3c5771fe9cb6bb9f42c740ea8fd156b7b5a8071"
+git-tree-sha1 = "f4289d402ef73fc5269b9363f868a3bbc827d9c7"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[GAP.download]]
-    sha256 = "6f23027d625ee94a900bf82d27d905fbdd697fa41286b20376be3c02369c681f"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.powerpc64le-linux-gnu-julia_version+1.14.0.tar.gz"
+    sha256 = "d6006eac2c7ce48f90ba4e3311f68a6b6bcea2e8e6a96d774d42035893a3ec3e"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.powerpc64le-linux-gnu-julia_version+1.14.0.tar.gz"
 [[GAP]]
 arch = "powerpc64le"
-git-tree-sha1 = "a620113ccfad13676e744a540ac6730374b67565"
+git-tree-sha1 = "cf27d104af5f813931ce9bdd54621dd76d4eb69d"
 julia_version = "1.15.0"
 libc = "glibc"
 os = "linux"
 
     [[GAP.download]]
-    sha256 = "0e604a0a5dd4ac4b88ef3442e92c50c013d441b66b580b1cda84e715e46cd5a1"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.powerpc64le-linux-gnu-julia_version+1.15.0.tar.gz"
+    sha256 = "e640caf274263bccc32567ce34a0a0d2957af03d15f1a9bc26aaa2cc3ca73133"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.powerpc64le-linux-gnu-julia_version+1.15.0.tar.gz"
 [[GAP]]
 arch = "riscv64"
 git-tree-sha1 = "bd7eb694205b6e6d95839d9a606f442773cb9683"
@@ -277,27 +277,27 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "fed15e2441198b5c411591649e35e2c4d4c1ef4a25476f997c218e6ecaccb2e4"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.riscv64-linux-gnu-julia_version+1.13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.riscv64-linux-gnu-julia_version+1.13.0.tar.gz"
 [[GAP]]
 arch = "riscv64"
-git-tree-sha1 = "2d48a6ab12434a641fc14b53ff2d6a01170bfe04"
+git-tree-sha1 = "187f323902adabecc5373aaa3e5fa6e842a9eefd"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[GAP.download]]
-    sha256 = "074b63e2e3e90a7f7ebb5ccc909b1bd2fd01ea00db0ce70faec73d11a563611c"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.riscv64-linux-gnu-julia_version+1.14.0.tar.gz"
+    sha256 = "b1fd0f763b1a11aeb12b3806ca8cba1302d5041c7e533b460ca87cf6a2b440ad"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.riscv64-linux-gnu-julia_version+1.14.0.tar.gz"
 [[GAP]]
 arch = "riscv64"
-git-tree-sha1 = "158bb9b33a324301680d38b0335fdb1efe11e155"
+git-tree-sha1 = "c2a9635430c48ec5af3c1540efc3bbcb91bad7fc"
 julia_version = "1.15.0"
 libc = "glibc"
 os = "linux"
 
     [[GAP.download]]
-    sha256 = "bea786a1c793080f5acc710da6bb3b9aba717f4c205558e260659ec9ef4cc098"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.riscv64-linux-gnu-julia_version+1.15.0.tar.gz"
+    sha256 = "4eef02a689a9e2e927f9e65378872693e5de189a27fc211e18a57dde8cb7a82b"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.riscv64-linux-gnu-julia_version+1.15.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "befa484b9c46470f8eadfd7fd89fb3bba1e6c1cc"
@@ -306,7 +306,7 @@ os = "macos"
 
     [[GAP.download]]
     sha256 = "3287f96caf778ecbf7cbfc8b5a0f3c1fde1ba2fd3ffaf394ff536363e853b297"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "c2a8cff33afd6823331cd6f32ac88eb973f053f4"
@@ -315,7 +315,7 @@ os = "macos"
 
     [[GAP.download]]
     sha256 = "51933ac8c75d828ac3e5da6da68221012025238635e9d281dd63efaded8122d7"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "c6a6c8600e191fef5d88b486bacb68ac5c4981e8"
@@ -324,7 +324,7 @@ os = "macos"
 
     [[GAP.download]]
     sha256 = "d11652f6bc982b922bf102a985ea71bad6fd9b169f30c7e4b4828ae85d051838"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "09931b55aab05ddae623b5f5c84bc78cd09b470c"
@@ -333,25 +333,25 @@ os = "macos"
 
     [[GAP.download]]
     sha256 = "71b760b99735edfb25994fbd70a6993c9685991e7db91a22fa77e5010cc1f6c7"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
-git-tree-sha1 = "879b3b94bf59c837598ec9af3af82dfc48cf11a2"
+git-tree-sha1 = "58c54d369d3471442cfd5821740a9f79ade073c3"
 julia_version = "1.14.0"
 os = "macos"
 
     [[GAP.download]]
-    sha256 = "166f7a43ada67810974e2f520baf30cd3ef33000e7028d084373126f29da4540"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
+    sha256 = "c3928bcf705cbfc7b2272410064a14d5cccccc119c1180f372b0059c9560aa49"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
-git-tree-sha1 = "b5f24b304df580742b6f5a308b5f7b0aa03cd6d0"
+git-tree-sha1 = "1bc86a2900b56c89c55dace26b6373c00a28ad1e"
 julia_version = "1.15.0"
 os = "macos"
 
     [[GAP.download]]
-    sha256 = "4e7a92dced2718b58daa1ca2105a7b24a3d2aac7e8e726a4e7a6f3f38ba01fae"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-apple-darwin-julia_version+1.15.0.tar.gz"
+    sha256 = "bb75b133a3aeebd2f0bc538ff712e251fc90bc687f152fa3ef70a7af489155a8"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-apple-darwin-julia_version+1.15.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "512a240bef068e08252548e9c15aedead8e12db6"
@@ -361,7 +361,7 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "7516699a024b9d5cf71affbd0a14ec4613792bfca2b29196c3dca93f66be350c"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "9809a2b2e23f82765aab63593a699a98902ea30e"
@@ -371,7 +371,7 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "7f40b8e81a819e6430a3c3efdf8f432a4fe7543804ad7d3561cade08bb206b87"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-linux-gnu-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-linux-gnu-julia_version+1.11.1.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "d4de04b11ee09db5990fd155cd9b9d24c43f7397"
@@ -381,7 +381,7 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "76d78d10e1e315766dbed8898a7a10d9a6cc946d9f5504295cafb422c0cab995"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-linux-gnu-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-linux-gnu-julia_version+1.12.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "2594da91766b3f21bc25c86d9525d6d0b2ef2721"
@@ -391,27 +391,27 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "346718b8741d48dff208b1b572e4431a4c273de9d22a8894d585182c59edae97"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-linux-gnu-julia_version+1.13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-linux-gnu-julia_version+1.13.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
-git-tree-sha1 = "21b41b769571f04a874b796d6cc51d35f581d055"
+git-tree-sha1 = "e0981b97f1b0e5cfb7df3fa8cbc2e80b82203c5b"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[GAP.download]]
-    sha256 = "ba732e593d61a5d7ce56b624b5cbef19f78b43c68151aa16961f3c01b9e50c3a"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-linux-gnu-julia_version+1.14.0.tar.gz"
+    sha256 = "230ee94b47b8dcb0cda34eaaec13b12fb59d1470e7f9c2d037b8da05639f08c1"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-linux-gnu-julia_version+1.14.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
-git-tree-sha1 = "bde376181561615c06bac1a74beb4347157b65b8"
+git-tree-sha1 = "0457d69580db098f71fd1e3802561eaa93d9e48c"
 julia_version = "1.15.0"
 libc = "glibc"
 os = "linux"
 
     [[GAP.download]]
-    sha256 = "5aa6499dd5b4ba9f58da53c44981cb9249dfccbd200a1dcb7dd71f458c8e6527"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-linux-gnu-julia_version+1.15.0.tar.gz"
+    sha256 = "600648e01cb3d343f907292804b4ce2c0df8ca812723daf57be3502b54096433"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-linux-gnu-julia_version+1.15.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "afcdd260e7394d12e6399dee24a2f6277ad83517"
@@ -421,7 +421,7 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "ee591df9de94ab19d9e4940df91b6e7f1acdf4adc88a1ea35852c97f5d44885e"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-linux-musl-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-linux-musl-julia_version+1.10.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "59809a125bb11737b2ba43da2ac74d511154ff80"
@@ -431,7 +431,7 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "b6fd1243b811db695f29b6534a2ffe1907f0f9f70f03a9be56e8fce9fae109c0"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-linux-musl-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-linux-musl-julia_version+1.11.1.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "7c17bb1ff85356982593677e36fa456b87887af3"
@@ -441,7 +441,7 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "b0802ee4b91e2c063c3ec2c789269783e4f253cb4d43d5a9bd8a672c2853e7ac"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-linux-musl-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-linux-musl-julia_version+1.12.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "d2d9bfccbc70b4c5e7da621b7e27597e676235ba"
@@ -451,27 +451,27 @@ os = "linux"
 
     [[GAP.download]]
     sha256 = "bc8fd9c1b405fda1a372f8930a69275993e929ff117a9daf1c201069a77f0e71"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-linux-musl-julia_version+1.13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-linux-musl-julia_version+1.13.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
-git-tree-sha1 = "f85e3d0fba6d403c4784c62f4f8dfcac9c89694e"
+git-tree-sha1 = "41938dee901026414f34e36441e4008e69a56924"
 julia_version = "1.14.0"
 libc = "musl"
 os = "linux"
 
     [[GAP.download]]
-    sha256 = "132c6fcd7c3a4bde3d78b3cd874bb7743c5f904be8463f8d54fa833a1ae57945"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-linux-musl-julia_version+1.14.0.tar.gz"
+    sha256 = "6fee989da46eee13ae67f6d73a2cf44be5ee3a7e2f4f64646105df717ba70fb2"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-linux-musl-julia_version+1.14.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
-git-tree-sha1 = "024f3fc6ca1b9d7a659ef852ba13e34d6c235f58"
+git-tree-sha1 = "3e31de524019a5e4e7264dfe39e95029ac066105"
 julia_version = "1.15.0"
 libc = "musl"
 os = "linux"
 
     [[GAP.download]]
-    sha256 = "0ca1e3009ca26cb2190ecd82d86f1d6bc2b0478add4ad71ddd1eaa32d51cfcc6"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-linux-musl-julia_version+1.15.0.tar.gz"
+    sha256 = "4e5e7f3a1e9b8f6466e74f8595458af21e57d54757ed76fe14381b22d3e128da"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-linux-musl-julia_version+1.15.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "026d190ebaad44b5bdd97adaed5c3f2a86b1adbe"
@@ -480,7 +480,7 @@ os = "freebsd"
 
     [[GAP.download]]
     sha256 = "9fe2b4e2ce2e3736a33ce50a515c8c0d730f9eb7ccf9422305730bc952c88a2c"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "931f878da7ccaccd28606f55b300244241819808"
@@ -489,7 +489,7 @@ os = "freebsd"
 
     [[GAP.download]]
     sha256 = "391133b1b18b36fd94582829d11d6865a29c6f8c4b73e7a18b27b811ae4caee2"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "b31114ec205263822867192a9e67fe3d3346db62"
@@ -498,7 +498,7 @@ os = "freebsd"
 
     [[GAP.download]]
     sha256 = "834d44e7b313501163acaf06d035587429a054a689bc320f46430b1cd068dbb3"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
 git-tree-sha1 = "ec305404ad4b19abb7d1a8ab1a1e326b8f82e8b8"
@@ -507,22 +507,22 @@ os = "freebsd"
 
     [[GAP.download]]
     sha256 = "b4d943dd5328e6283ee1a1ad698d99e927a483aec79684a85b838d816a9dd668"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
-git-tree-sha1 = "4624b753c14afa7425f34de5974f5d9120da79a8"
+git-tree-sha1 = "dca884bc4277918cc7f40870cf45d1835c328cc6"
 julia_version = "1.14.0"
 os = "freebsd"
 
     [[GAP.download]]
-    sha256 = "2053e6343b5c70661cf2f8575d9f4e98ffd7cacc4dd56fbf797272f180175d74"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-unknown-freebsd-julia_version+1.14.0.tar.gz"
+    sha256 = "fb13163ede0df7b8b3886dcb5233a5768f10d4d29239b7566f41eb040db9da21"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-unknown-freebsd-julia_version+1.14.0.tar.gz"
 [[GAP]]
 arch = "x86_64"
-git-tree-sha1 = "a723dbd5587305a23ff0810f475c9b2e52b30c9d"
+git-tree-sha1 = "c809d2e0e12f392af67698fbbe73cc23966df031"
 julia_version = "1.15.0"
 os = "freebsd"
 
     [[GAP.download]]
-    sha256 = "d867db709ae5e57868fca0483501ced902044b8632ca6f5569d35a80069e63f9"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.105+0/GAP.v400.1600.105.x86_64-unknown-freebsd-julia_version+1.15.0.tar.gz"
+    sha256 = "990b8ad77c9851441493c22e1171ba9aad026821776192c3614ab7f3c7b19795"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_jll.jl/releases/download/GAP-v400.1600.106+0/GAP.v400.1600.106.x86_64-unknown-freebsd-julia_version+1.15.0.tar.gz"
